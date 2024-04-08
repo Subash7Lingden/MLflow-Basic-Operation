@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/industry%20standard%20ml%20project/Chest-CT-Scan-Image/mlruns/0/b6570d020bdf40f79d7f370012ad79ec/artifacts
+end_time: 1712573967653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6570d020bdf40f79d7f370012ad79ec
+run_name: masked-roo-513
+run_uuid: b6570d020bdf40f79d7f370012ad79ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712573963478
+status: 3
+tags: []
+user_id: acer

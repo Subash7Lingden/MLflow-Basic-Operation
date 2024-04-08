@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/industry%20standard%20ml%20project/Chest-CT-Scan-Image/mlruns/0/c3e18946af734cdb8a2454a1ee2b0b8f/artifacts
+end_time: 1712573782153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3e18946af734cdb8a2454a1ee2b0b8f
+run_name: traveling-foal-246
+run_uuid: c3e18946af734cdb8a2454a1ee2b0b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712573777655
+status: 3
+tags: []
+user_id: acer
